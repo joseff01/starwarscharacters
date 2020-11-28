@@ -1,5 +1,4 @@
 import React from "react";
-import starwarscharacter from "./starwarscharacter";
 
 export default class Starwarspeople extends React.Component{
     constructor(props) {
